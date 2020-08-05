@@ -2,7 +2,7 @@
 Firefaucet Script
 *****
 Firefaucet : https://firefaucet.win/ref/logicjoker<br> 
-How To Use a Script : https://www.youtube.com/watch?v=Ip2AonisWa8<br>
+How To Use a Script : https://www.youtube.com/watch?v=Mk1WUTM6h_U&t=294s<br>
 *****
 Installation (Termux) [Important!!!]<br>
 apt update && apt upgrade<br> 

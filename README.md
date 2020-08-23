@@ -19,4 +19,6 @@ cd Firefaucet<br>
 ls<br>
 php bot.php
 
+*** You Should login website before use a script 🔥🔥
+
 *** Screenshot in this link : https://www.youtube.com/watch?v=Mk1WUTM6h_U&t=294s

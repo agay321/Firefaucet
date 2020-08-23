@@ -1,6 +1,7 @@
 # Firefaucet
 Firefaucet Script
 *****
+🔥🔥 Warning!!! - When You Token is Empty just should claim token before use script to earn coin
 Firefaucet : https://firefaucet.win/ref/logicjoker<br> 
 How To Use a Script : https://www.youtube.com/watch?v=Mk1WUTM6h_U&t=294s<br>
 *****
